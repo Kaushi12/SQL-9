@@ -1,0 +1,2 @@
+1) SELECT TOP 10 * FROM Table ORDER BY Col DESC;
+2) Select Salary from table_name order by Salary DESC limit 4,1;
